@@ -29,7 +29,7 @@ The "Work" section showcases the various projects I've worked on. Each project i
 
 ## Contact Me
 
-The "Contact Me" section is the gateway for visitors to get in touch with me. It includes links to my Instagram, Facebook and LinkedIn profiles. Additionally, there's a contact form where users can input a message to send directly to me.
+The "Contact Me" section is the gateway for visitors to get in touch with me. It includes links to my Instagram, Facebook and LinkedIn profiles. Additionally, there's a contact form where users can input a message to send directly to me, and also a button that lets users download my Resume.
 
 ### Contact Form
 
